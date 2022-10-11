@@ -8,3 +8,5 @@ En el mejor de los casos de que no te pillen, no habras aprendido a programar po
 Si despues de pensarlo mucho no encuentras la solución al ejercicio, mira mi código. Si sigues sin entender cómo lo hice, puedes ver los videos de explicación del profesor o preguntar a tus compañeros.
 
 Yo tambien te puedo ayudar con las dudillas. Me puedes contactar por Telegram (@zoroark828) o Discord (Zoroark828#2314) :)!
+
+Las sesiones las iré subiendo conforme pase el curso.
