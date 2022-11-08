@@ -18,7 +18,6 @@ using namespace std;
 
 int main(){
 	int numero, calculo_digitos, num_digitos, digito_actual, numero_seccionado, suma_final;
-	
 	bool es_narcisista;
 	
 	cout << "Introduzca un numero entero positivo: ";
@@ -31,14 +30,14 @@ int main(){
 		calculo_digitos /= 10;
 		num_digitos++;
 	}
-
+	
 	numero_seccionado = numero;										// Iniciamos algunas variables
 	suma_final = 0;
 	
 	for (int i = 1; i <= num_digitos; i++){		
 		digito_actual = numero_seccionado % 10;						// Elegimos la ultima cifra del numero actual
 		numero_seccionado = numero_seccionado / 10;					// Eliminamos esta ultima cifra para la siguiente iteracion
-
+		
 		suma_final += pow(digito_actual,num_digitos);				// Sumamos el digito elevado al numero de digitos del numero
 	}
 	

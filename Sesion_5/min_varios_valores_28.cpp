@@ -19,7 +19,7 @@ int main(){
 	cout << "Introduzca un numero entero a evaluar (y un 0 para finalizar):";
 	cin >> dato;
 	
-	min = dato;		
+	min = dato;
 	
 	while (dato != FIN){
 		introducidos++;
